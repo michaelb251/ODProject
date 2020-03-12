@@ -12,6 +12,8 @@
         <Label Content="Teams" HorizontalAlignment="Left" Margin="78,65,0,0" VerticalAlignment="Top" Width="68"/>
         <Label Content="Players" HorizontalAlignment="Left" Margin="222,72,0,0" VerticalAlignment="Top" Width="61"/>
         <Image HorizontalAlignment="Left" Height="100" Margin="644,44,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="-0.16,0.01"/>
+        <TextBlock HorizontalAlignment="Left" Margin="56,323,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="86" Width="228"/>
+        <Label Content="Team Details" HorizontalAlignment="Left" Margin="56,292,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
