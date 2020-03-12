@@ -1,0 +1,17 @@
+﻿<Window x:Class="ODProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ODProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="181" Margin="56,91,0,0" VerticalAlignment="Top" Width="93" RenderTransformOrigin="-0.46,1.19"/>
+        <ListBox HorizontalAlignment="Left" Height="181" Margin="187,91,0,0" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.49,0.99"/>
+        <Label Content="Teams" HorizontalAlignment="Left" Margin="78,65,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Players" HorizontalAlignment="Left" Margin="222,72,0,0" VerticalAlignment="Top" Width="61"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="644,44,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="-0.16,0.01"/>
+
+    </Grid>
+</Window>
